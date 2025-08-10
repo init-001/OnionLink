@@ -1,0 +1,30 @@
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.deps.json
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\bin\Debug\net9.0\Common.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\bin\Debug\net9.0\Common.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.csproj.AssemblyReference.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.AssemblyInfoInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.AssemblyInfo.cs
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.csproj.CoreCompileInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmit.279703D1.Up2Date
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\refint\Transmitter.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Transmitter\obj\Debug\net9.0\ref\Transmitter.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.deps.json
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\bin\Debug\net9.0\Transmitter.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\bin\Debug\net9.0\Common.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\bin\Debug\net9.0\Common.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.csproj.AssemblyReference.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.AssemblyInfoInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.AssemblyInfo.cs
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.csproj.CoreCompileInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmit.279703D1.Up2Date
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\refint\Transmitter.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\ref\Transmitter.dll

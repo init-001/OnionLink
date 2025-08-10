@@ -1,0 +1,30 @@
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.deps.json
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\bin\Debug\net9.0\Common.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\bin\Debug\net9.0\Common.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.AssemblyReference.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.AssemblyInfo.cs
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.Up2Date
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\refint\Receiver.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Receiver\obj\Debug\net9.0\ref\Receiver.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.deps.json
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\bin\Debug\net9.0\Receiver.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\bin\Debug\net9.0\Common.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\bin\Debug\net9.0\Common.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.AssemblyReference.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.AssemblyInfo.cs
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.csproj.Up2Date
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\refint\Receiver.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\ref\Receiver.dll

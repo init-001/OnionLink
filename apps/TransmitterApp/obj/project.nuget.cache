@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6tNw6BuTdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11914\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\11914\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\11914\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\11914\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

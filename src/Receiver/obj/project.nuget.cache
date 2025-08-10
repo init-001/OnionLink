@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGUC8K/Q2PU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Receiver\\Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\libsodium\\1.0.20.1\\libsodium.1.0.20.1.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.8\\microsoft.data.sqlite.core.9.0.8.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\sodium.core\\1.4.0\\sodium.core.1.4.0.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\sh0ttky\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

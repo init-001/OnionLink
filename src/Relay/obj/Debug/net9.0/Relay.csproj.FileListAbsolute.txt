@@ -1,0 +1,30 @@
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\bin\Debug\net9.0\Relay.deps.json
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\bin\Debug\net9.0\Relay.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\bin\Debug\net9.0\Relay.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\bin\Debug\net9.0\Common.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\bin\Debug\net9.0\Common.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.AssemblyReference.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.AssemblyInfoInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.AssemblyInfo.cs
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.CoreCompileInputs.cache
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.Up2Date
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\refint\Relay.dll
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\Relay.pdb
+C:\Users\11914\OneDrive - TecAlliance\Desktop\Learning\OnionChat\src\Relay\obj\Debug\net9.0\ref\Relay.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\bin\Debug\net9.0\Relay.deps.json
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\bin\Debug\net9.0\Relay.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\bin\Debug\net9.0\Relay.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\bin\Debug\net9.0\Common.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\bin\Debug\net9.0\Common.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.AssemblyReference.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.AssemblyInfoInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.AssemblyInfo.cs
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.CoreCompileInputs.cache
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.csproj.Up2Date
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\refint\Relay.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.pdb
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\ref\Relay.dll
