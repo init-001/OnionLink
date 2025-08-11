@@ -28,3 +28,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\refint\Transmitter.dll
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\ref\Transmitter.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Transmitter\obj\Debug\net9.0\Transmitter.sourcelink.json

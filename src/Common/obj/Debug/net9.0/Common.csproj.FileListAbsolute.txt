@@ -22,3 +22,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Common\obj\Debug\net9.0\Commo
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Common\obj\Debug\net9.0\refint\Common.dll
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Common\obj\Debug\net9.0\Common.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Common\obj\Debug\net9.0\ref\Common.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Common\obj\Debug\net9.0\Common.sourcelink.json

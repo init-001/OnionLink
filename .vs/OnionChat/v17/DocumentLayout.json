@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\utilities\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\utilities\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\statics\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\statics\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_onion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_onion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\tests\\common.tests\\databaseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|solutionrelative:tests\\common.tests\\databaseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_masterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_masterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\crypto\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\crypto\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\utilities\\pathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\utilities\\pathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\crypto\\reedsolomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\crypto\\reedsolomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\statics\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\statics\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\statics\\wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\statics\\wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\utilities\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\utilities\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\crypto\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\crypto\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\crypto\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\crypto\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\tests\\common.tests\\cryptoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|solutionrelative:tests\\common.tests\\common.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\tests\\common.tests\\databaseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|solutionrelative:tests\\common.tests\\databaseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\tests\\common.tests\\encodingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F391741D-E390-499F-991C-D009A25AA52E}|tests\\Common.Tests\\Common.Tests.csproj|solutionrelative:tests\\common.tests\\encodingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,40 +94,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apps\\TransmitterApp\\TransmitterApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\utilities\\pathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\utilities\\pathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\io\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\io\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_onion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_onion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|solutionrelative:src\\common\\database\\db_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E308284-BAF0-4AF4-82D8-64B55BABC146}|src\\Common\\Common.csproj|c:\\users\\sh0ttky\\downloads\\onionchat\\onionchat\\src\\common\\database\\db_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,108 +113,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EncodingService.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\EncodingService.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Crypto\\EncodingService.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\EncodingService.cs",
-              "RelativeToolTip": "src\\Common\\Crypto\\EncodingService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBAAAABaAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ReedSolomon.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\ReedSolomon.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Crypto\\ReedSolomon.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\ReedSolomon.cs",
+              "RelativeToolTip": "src\\Common\\Crypto\\ReedSolomon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T20:13:31.403Z",
+              "WhenOpened": "2025-08-10T23:27:26.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "PathUtils.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\PathUtils.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Utilities\\PathUtils.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\PathUtils.cs",
+              "RelativeToolTip": "src\\Common\\Utilities\\PathUtils.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAMwGYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:51:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "src\\Common\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:52:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gateway.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\Gateway.cs",
+              "RelativeDocumentMoniker": "src\\Common\\IO\\Gateway.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\Gateway.cs",
+              "RelativeToolTip": "src\\Common\\IO\\Gateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:50:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Db_masterkey.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_masterkey.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_masterkey.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_masterkey.cs",
+              "RelativeToolTip": "src\\Common\\Database\\Db_masterkey.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAEwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:41:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\DatabaseService.cs",
               "RelativeDocumentMoniker": "src\\Common\\Database\\DatabaseService.cs",
               "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\DatabaseService.cs",
               "RelativeToolTip": "src\\Common\\Database\\DatabaseService.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAgwI0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T19:49:06.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CryptoServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\CryptoServiceTests.cs",
-              "RelativeDocumentMoniker": "tests\\Common.Tests\\CryptoServiceTests.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\CryptoServiceTests.cs",
-              "RelativeToolTip": "tests\\Common.Tests\\CryptoServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T23:15:31.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EncodingServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\EncodingServiceTests.cs",
-              "RelativeDocumentMoniker": "tests\\Common.Tests\\EncodingServiceTests.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\EncodingServiceTests.cs",
-              "RelativeToolTip": "tests\\Common.Tests\\EncodingServiceTests.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T01:31:51.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CryptoService.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\CryptoService.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Crypto\\CryptoService.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\CryptoService.cs",
-              "RelativeToolTip": "src\\Common\\Crypto\\CryptoService.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAqwLcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T20:13:17.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\Constants.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Statics\\Constants.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\Constants.cs",
-              "RelativeToolTip": "src\\Common\\Statics\\Constants.cs",
-              "ViewState": "AgIAANABAAAAAAAAAAAAAOMBAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:46:06.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Db_contacts.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_contacts.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_contacts.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_contacts.cs",
-              "RelativeToolTip": "src\\Common\\Database\\Db_contacts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:27:16.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DatabaseServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\DatabaseServiceTests.cs",
               "RelativeDocumentMoniker": "tests\\Common.Tests\\DatabaseServiceTests.cs",
               "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\DatabaseServiceTests.cs",
               "RelativeToolTip": "tests\\Common.Tests\\DatabaseServiceTests.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T02:09:40.511Z"
+              "WhenOpened": "2025-08-10T02:09:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -219,20 +225,160 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Db_onion.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_onion.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_onion.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_onion.cs",
+              "RelativeToolTip": "src\\Common\\Database\\Db_onion.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv5QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:28:21.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Db_logs.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_logs.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_logs.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_logs.cs",
+              "RelativeToolTip": "src\\Common\\Database\\Db_logs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:28:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OutputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\OutputHandler.cs",
+              "RelativeDocumentMoniker": "src\\Common\\IO\\OutputHandler.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\OutputHandler.cs",
+              "RelativeToolTip": "src\\Common\\IO\\OutputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:50:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\InputHandler.cs",
+              "RelativeDocumentMoniker": "src\\Common\\IO\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\InputHandler.cs",
+              "RelativeToolTip": "src\\Common\\IO\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:49:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\Constants.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Statics\\Constants.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\Constants.cs",
+              "RelativeToolTip": "src\\Common\\Statics\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOMBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:46:06.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordList.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\WordList.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Statics\\WordList.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Statics\\WordList.cs",
+              "RelativeToolTip": "src\\Common\\Statics\\WordList.cs",
+              "ViewState": "AgIAAA8YAAAAAAAAAADgvwEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:45:44.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MiscUtils.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\MiscUtils.cs",
               "RelativeDocumentMoniker": "src\\Common\\Utilities\\MiscUtils.cs",
               "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\MiscUtils.cs",
               "RelativeToolTip": "src\\Common\\Utilities\\MiscUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T19:51:06.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\CryptoService.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Crypto\\CryptoService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\CryptoService.cs",
+              "RelativeToolTip": "src\\Common\\Crypto\\CryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:13:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EncodingService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\EncodingService.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Crypto\\EncodingService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Crypto\\EncodingService.cs",
+              "RelativeToolTip": "src\\Common\\Crypto\\EncodingService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:13:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Db_contacts.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_contacts.cs",
+              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_contacts.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_contacts.cs",
+              "RelativeToolTip": "src\\Common\\Database\\Db_contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:27:16.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EncodingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\EncodingServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Common.Tests\\EncodingServiceTests.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\EncodingServiceTests.cs",
+              "RelativeToolTip": "tests\\Common.Tests\\EncodingServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:31:51.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CryptoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\CryptoServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Common.Tests\\CryptoServiceTests.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\CryptoServiceTests.cs",
+              "RelativeToolTip": "tests\\Common.Tests\\CryptoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T23:15:31.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Common.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\tests\\Common.Tests\\Common.Tests.csproj",
               "RelativeDocumentMoniker": "tests\\Common.Tests\\Common.Tests.csproj",
@@ -244,19 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomExceptions.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Exceptions\\CustomExceptions.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Exceptions\\CustomExceptions.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Exceptions\\CustomExceptions.cs",
-              "RelativeToolTip": "src\\Common\\Exceptions\\CustomExceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:52:27.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
@@ -267,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "Common.csproj",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj",
               "RelativeDocumentMoniker": "src\\Common\\Common.csproj",
@@ -279,55 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PathUtils.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\PathUtils.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Utilities\\PathUtils.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Utilities\\PathUtils.cs",
-              "RelativeToolTip": "src\\Common\\Utilities\\PathUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:51:28.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Gateway.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\Gateway.cs",
-              "RelativeDocumentMoniker": "src\\Common\\IO\\Gateway.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\Gateway.cs",
-              "RelativeToolTip": "src\\Common\\IO\\Gateway.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:50:12.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OutputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\OutputHandler.cs",
-              "RelativeDocumentMoniker": "src\\Common\\IO\\OutputHandler.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\OutputHandler.cs",
-              "RelativeToolTip": "src\\Common\\IO\\OutputHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:50:00.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\InputHandler.cs",
-              "RelativeDocumentMoniker": "src\\Common\\IO\\InputHandler.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\IO\\InputHandler.cs",
-              "RelativeToolTip": "src\\Common\\IO\\InputHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:49:50.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Db_keys.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_keys.cs",
               "RelativeDocumentMoniker": "src\\Common\\Database\\Db_keys.cs",
@@ -339,31 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Db_onion.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_onion.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_onion.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_onion.cs",
-              "RelativeToolTip": "src\\Common\\Database\\Db_onion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:28:21.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Db_logs.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_logs.cs",
-              "RelativeDocumentMoniker": "src\\Common\\Database\\Db_logs.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_logs.cs",
-              "RelativeToolTip": "src\\Common\\Database\\Db_logs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:28:06.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Db_groups.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Database\\Db_groups.cs",
               "RelativeDocumentMoniker": "src\\Common\\Database\\Db_groups.cs",
@@ -375,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "TransmitterApp.csproj",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
               "RelativeDocumentMoniker": "apps\\TransmitterApp\\TransmitterApp.csproj",
@@ -383,12 +445,7 @@
               "RelativeToolTip": "apps\\TransmitterApp\\TransmitterApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T17:22:15.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-08-09T17:22:15.978Z"
             }
           ]
         },

@@ -80,3 +80,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\apps\ReceiverApp\obj\Debug\net9.0
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\apps\ReceiverApp\obj\Debug\net9.0\ReceiverApp.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\apps\ReceiverApp\obj\Debug\net9.0\ReceiverApp.genruntimeconfig.cache
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\apps\ReceiverApp\obj\Debug\net9.0\ref\ReceiverApp.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\apps\ReceiverApp\obj\Debug\net9.0\ReceiverApp.sourcelink.json

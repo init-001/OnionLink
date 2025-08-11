@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Numerics;
 using System.Security.Cryptography;
 using System.Text;
@@ -20,7 +17,8 @@ namespace Common.Crypto
         /// <summary>
         /// Double SHA-256 (sha256d) used for Base58 checksum (bitcoin style).
         /// </summary>
-        public static byte[] Sha256d(byte[] message)
+        public static byte[] Sha256d(
+            byte[] message)
         {
             using var sha256 = SHA256.Create();
             var first = sha256.ComputeHash(message);
@@ -30,7 +28,9 @@ namespace Common.Crypto
         /// <summary>
         /// Encode a byte array to Base58 with checksum. If publicKey true uses TESTNET_HEADER.
         /// </summary>
-        public static string B58Encode(byte[] data, bool publicKey = false)
+        public static string B58Encode(
+            byte[] data, 
+            bool publicKey = false)
         {
             var netId = publicKey ? TESTNET_HEADER : MAINNET_HEADER;
             var payload = netId.Concat(data).ToArray();
@@ -60,7 +60,9 @@ namespace Common.Crypto
         /// <summary>
         /// Decode Base58 with checksum verification. Throws on invalid checksum or net id.
         /// </summary>
-        public static byte[] B58Decode(string s, bool publicKey = false)
+        public static byte[] B58Decode(
+            string s, 
+            bool publicKey = false)
         {
             var netId = publicKey ? TESTNET_HEADER : MAINNET_HEADER;
             int origLen = s.Length;
@@ -101,7 +103,8 @@ namespace Common.Crypto
         /// This function encodes 4-byte groups into 5 ASCII85 characters; final partial group
         /// produces (n + 1) output characters (n = number of remaining input bytes).
         /// </summary>
-        public static string B85Encode(byte[] data)
+        public static string B85Encode(
+            byte[] data)
         {
             if (data == null || data.Length == 0) return string.Empty;
 
@@ -149,7 +152,8 @@ namespace Common.Crypto
         /// <summary>
         /// Encode fingerprint bytes as a decimal string (big integer base10).
         /// </summary>
-        public static string B10Encode(byte[] fingerprint)
+        public static string B10Encode(
+            byte[] fingerprint)
         {
             if (fingerprint == null || fingerprint.Length == 0) return "0";
 
@@ -164,7 +168,8 @@ namespace Common.Crypto
         /// <summary>
         /// Pad a Unicode string to PADDING_LENGTH characters (UTF-32 storage in DB).
         /// </summary>
-        public static string UnicodePadding(string s)
+        public static string UnicodePadding(
+            string s)
         {
             if (s.Length >= PADDING_LENGTH)
                 throw new InvalidOperationException("Invalid input size.");
@@ -181,7 +186,8 @@ namespace Common.Crypto
         /// <summary>
         /// Remove PKCS-like unicode padding added by UnicodePadding.
         /// </summary>
-        public static string RemovePadding(string s)
+        public static string RemovePadding(
+            string s)
         {
             if (string.IsNullOrEmpty(s)) return s;
             int pad = (int)s[^1];
@@ -231,7 +237,8 @@ namespace Common.Crypto
         /// <summary>
         /// Convert a 4-byte little-endian Unix timestamp to DateTime (UTC).
         /// </summary>
-        public static DateTime BytesToTimestamp(byte[] b)
+        public static DateTime BytesToTimestamp(
+            byte[] b)
         {
             if (b == null || b.Length < 4) throw new ArgumentException("Timestamp must be 4 bytes.");
             uint seconds = BitConverter.ToUInt32(b, 0);

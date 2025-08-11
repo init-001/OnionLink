@@ -9,13 +9,14 @@ using Xunit;
 using static Common.DatabaseService.Utils;
 using static Common.DatabaseService.Utils.MasterKey;
 
+
 namespace Crypto.Tests;
 public class OnionChatDatabaseTests : IDisposable
 {
     private readonly string testDbPath = "testlog.db";
     private readonly string testTempPath;
     private readonly MasterKey masterKey;
-    private readonly OnionChatDatabase db;
+    private readonly OnionLinkDatabase db;
 
     public OnionChatDatabaseTests()
     {
@@ -23,7 +24,7 @@ public class OnionChatDatabaseTests : IDisposable
         var key = new byte[32];
         new Random().NextBytes(key);
         masterKey = new MasterKey(key);
-        db = new OnionChatDatabase(testDbPath, masterKey);
+        db = new OnionLinkDatabase(testDbPath, masterKey);
     }
 
     [Fact]

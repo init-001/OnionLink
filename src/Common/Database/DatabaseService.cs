@@ -54,14 +54,14 @@ namespace Common.DatabaseService
         // Placeholder for your encrypt_and_sign and auth_and_decrypt
         // Use Sodium.SecretBox or other authenticated encryption you prefer
 
-        public class OnionChatDatabase
+        public class OnionLinkDatabase
         {
             private readonly CryptoService _crypto = new();
             private readonly string databaseName;
             private readonly string databaseTemp;
             private readonly byte[] databaseKey;
 
-            public OnionChatDatabase(string databaseName, MasterKey masterKey)
+            public OnionLinkDatabase(string databaseName, MasterKey masterKey)
             {
                 this.databaseName = databaseName;
                 this.databaseTemp = databaseName + TEMP_SUFFIX;

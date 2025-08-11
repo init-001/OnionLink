@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj": {}
+    "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj": {
+    "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
+        "projectUniqueName": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
         "projectName": "TransmitterApp",
-        "projectPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
-        "packagesPath": "C:\\Users\\11914\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\apps\\TransmitterApp\\obj\\",
+        "projectPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\TransmitterApp.csproj",
+        "packagesPath": "C:\\Users\\sh0ttky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\apps\\TransmitterApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\11914\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sh0ttky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,16 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Local nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\Transmitter.csproj": {
-                "projectPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\Transmitter.csproj"
+              "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\Transmitter.csproj": {
+                "projectPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\Transmitter.csproj"
               }
             }
           }
@@ -50,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -71,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\Common.csproj": {
+    "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\11914\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\obj\\",
+        "projectPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\sh0ttky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\11914\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sh0ttky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +95,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Local nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,7 +113,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -134,6 +130,14 @@
             "Isopoh.Cryptography.Blake2b": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Sodium.Core": {
+              "target": "Package",
+              "version": "[1.4.0, )"
             }
           },
           "imports": [
@@ -152,24 +156,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\Transmitter.csproj": {
+    "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\Transmitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\Transmitter.csproj",
+        "projectUniqueName": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\Transmitter.csproj",
         "projectName": "Transmitter",
-        "projectPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\Transmitter.csproj",
-        "packagesPath": "C:\\Users\\11914\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Transmitter\\obj\\",
+        "projectPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\Transmitter.csproj",
+        "packagesPath": "C:\\Users\\sh0ttky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Transmitter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\11914\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sh0ttky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -178,16 +182,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Local nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\11914\\OneDrive - TecAlliance\\Desktop\\Learning\\OnionChat\\src\\Common\\Common.csproj"
+              "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\sh0ttky\\Downloads\\OnionChat\\OnionChat\\src\\Common\\Common.csproj"
               }
             }
           }
@@ -202,7 +204,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -223,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

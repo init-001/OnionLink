@@ -248,3 +248,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Common.Tests\obj\Debug\net9
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Common.Tests\obj\Debug\net9.0\Common.Tests.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Common.Tests\obj\Debug\net9.0\Common.Tests.genruntimeconfig.cache
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Common.Tests\obj\Debug\net9.0\ref\Common.Tests.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Common.Tests\obj\Debug\net9.0\Common.Tests.sourcelink.json

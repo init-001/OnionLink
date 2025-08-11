@@ -67,7 +67,6 @@ namespace Common.Crypto
             }
         }
 
-
         /// <summary>
         /// Derives a cryptographic key from a password and salt using Argon2id.
         /// </summary>
@@ -282,7 +281,10 @@ namespace Common.Crypto
         /// <param name="key">32-byte symmetric key</param>
         /// <param name="associatedData">Optional associated data (AD)</param>
         /// <returns>nonce + ciphertext + tag</returns>
-        public byte[] EncryptAndSign(byte[] plaintext, byte[] key, byte[] associatedData = null)
+        public byte[] EncryptAndSign(
+            byte[] plaintext, 
+            byte[] key, 
+            byte[] associatedData = null)
         {
             if (key == null || key.Length != SYMMETRIC_KEY_LENGTH)
                 throw new CriticalError($"Invalid key length ({key?.Length ?? 0} bytes). Expected {SYMMETRIC_KEY_LENGTH}.");
@@ -338,7 +340,11 @@ namespace Common.Crypto
         /// Thrown if authentication fails and no <paramref name="database"/> is provided.
         /// </exception>
 
-        public byte[] AuthAndDecrypt(byte[] nonceCtTag, byte[] key, string? database = null, byte[]? associatedData = null)
+        public byte[] AuthAndDecrypt(
+            byte[] nonceCtTag, 
+            byte[] key, 
+            string? database = null, 
+            byte[]? associatedData = null)
         {
             if (key == null || key.Length != SYMMETRIC_KEY_LENGTH)
                 throw new CriticalError($"Invalid key length ({key?.Length ?? 0} bytes).");
@@ -366,7 +372,9 @@ namespace Common.Crypto
         /// <summary>
         /// Splits the input array into nonce and ciphertext+tag parts.
         /// </summary>
-        private (byte[] nonce, byte[] ctTag) SeparateHeader(byte[] input, int nonceLength)
+        private (byte[] nonce, byte[] ctTag) SeparateHeader(
+            byte[] input, 
+            int nonceLength)
         {
             var nonce = new byte[nonceLength];
             var ctTagLength = input.Length - nonceLength;
@@ -381,7 +389,8 @@ namespace Common.Crypto
         /// <summary>
         /// Pads a bytestring to the next multiple of 255 bytes using PKCS7.
         /// </summary>
-        public byte[] BytePadding(byte[] bytestring)
+        public byte[] BytePadding(
+            byte[] bytestring)
         {
             if (bytestring == null) throw new ArgumentNullException(nameof(bytestring));
 
@@ -404,7 +413,8 @@ namespace Common.Crypto
         /// <summary>
         /// Removes PKCS7 padding from a padded bytestring.
         /// </summary>
-        public byte[] RemovePaddingBytes(byte[] paddedBytestring)
+        public byte[] RemovePaddingBytes(
+            byte[] paddedBytestring)
         {
             if (paddedBytestring == null) throw new ArgumentNullException(nameof(paddedBytestring));
             if (paddedBytestring.Length == 0) return Array.Empty<byte>();
@@ -429,7 +439,8 @@ namespace Common.Crypto
         /// Generate cryptographically secure random bytes of specified length,
         /// then compress using Blake2b hash of that length.
         /// </summary>
-        public byte[] Csprng(int keyLength = SYMMETRIC_KEY_LENGTH)
+        public byte[] Csprng(
+            int keyLength = SYMMETRIC_KEY_LENGTH)
         {
             if (keyLength < BLAKE2_DIGEST_LENGTH_MIN || keyLength > BLAKE2_DIGEST_LENGTH_MAX)
                 throw new CriticalError($"Invalid key size ({keyLength} bytes).");

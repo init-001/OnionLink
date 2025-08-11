@@ -248,3 +248,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Relay.Tests\obj\Debug\net9.
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Relay.Tests\obj\Debug\net9.0\Relay.Te.F4984C95.Up2Date
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Relay.Tests\obj\Debug\net9.0\Relay.Tests.genruntimeconfig.cache
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Relay.Tests\obj\Debug\net9.0\ref\Relay.Tests.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Relay.Tests\obj\Debug\net9.0\Relay.Tests.sourcelink.json

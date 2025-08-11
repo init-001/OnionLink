@@ -28,3 +28,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\refint\Relay.dll
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\ref\Relay.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Relay\obj\Debug\net9.0\Relay.sourcelink.json

@@ -232,3 +232,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Receiver.Tests\obj\Debug\ne
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Receiver.Tests\obj\Debug\net9.0\Receiver.Tests.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Receiver.Tests\obj\Debug\net9.0\Receiver.Tests.genruntimeconfig.cache
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Receiver.Tests\obj\Debug\net9.0\ref\Receiver.Tests.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Receiver.Tests\obj\Debug\net9.0\Receiver.Tests.sourcelink.json

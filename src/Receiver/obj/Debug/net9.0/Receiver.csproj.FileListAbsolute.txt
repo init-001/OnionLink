@@ -28,3 +28,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Rec
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\refint\Receiver.dll
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.pdb
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\ref\Receiver.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\src\Receiver\obj\Debug\net9.0\Receiver.sourcelink.json

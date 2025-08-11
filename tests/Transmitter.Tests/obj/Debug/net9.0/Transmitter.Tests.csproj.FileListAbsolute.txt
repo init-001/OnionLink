@@ -248,3 +248,4 @@ C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Transmitter.Tests\obj\Debug
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Transmitter.Tests\obj\Debug\net9.0\Transmit.6B797996.Up2Date
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Transmitter.Tests\obj\Debug\net9.0\Transmitter.Tests.genruntimeconfig.cache
 C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Transmitter.Tests\obj\Debug\net9.0\ref\Transmitter.Tests.dll
+C:\Users\sh0ttky\Downloads\OnionChat\OnionChat\tests\Transmitter.Tests\obj\Debug\net9.0\Transmitter.Tests.sourcelink.json
